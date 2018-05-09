@@ -1,5 +1,5 @@
 # Tiny_Remote  
-ATtiny85 IR Library, you can send the IR Signal with the Pysical pin 3 - aka 4 - .   
+ATtiny85 IR Library, you can send the IR Signal with the Physical pin 3 - aka 4 - .   
    
 This library is a mix of library and code from those components:
   - Arduino-IRremote: https://goo.gl/WJ6zLu
